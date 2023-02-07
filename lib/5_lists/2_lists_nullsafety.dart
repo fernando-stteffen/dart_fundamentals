@@ -12,4 +12,5 @@ void main() {
 
   //need to do this way
   var internalNamesNulls = <String?>['Fernando', null];
+  List<String?>? interNamesNulls2;
 }
